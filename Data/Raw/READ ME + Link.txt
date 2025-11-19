@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download
+
+Project Description:
+
+This project aims to predict the selling price of used cars based on their specifications such as brand, engine size, horsepower, mileage, and other features. The goal is to build a machine learning model that helps estimate fair market prices for vehicles, supporting better decision-making for car buyers and sellers.
+
+Problem Definition:
+
+The objective of this project is to predict the price of a car (y = price) based on its technical and categorical features such as engine size, horsepower, fuel type, and brand.
+This is a regression problem, as the target variable (price) is continuous.
+The intended users are car dealers, resellers, and buyers who want to estimate a fair market value for vehicles.
+The model’s performance will be evaluated using the following metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score.

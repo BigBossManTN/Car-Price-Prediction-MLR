@@ -1,0 +1,15 @@
+Success Criteria
+
+This project will be considered successful if the predictive model achieves:
+
+- Root Mean Squared Error (RMSE) < 3000
+- R² Score > 0.85 on the test dataset.
+
+Project Roadmap & Timeline:
+
+| Week       | Focus                        | Tasks                                                                                      |
+| ---------- | ---------------------------- | ------------------------------------------------------------------------------------------ |
+| **Week 1** | Setup & EDA                  | Create project structure, load data, perform cleaning and exploratory analysis             |
+| **Week 2** | Baseline Modeling            | Train initial regression models without optimization, compare results                      |
+| **Week 3** | Optimization & Analysis      | Apply GridSearchCV on advanced models, analyze and compare performance                     |
+| **Week 4** | Documentation & Presentation | Finalize notebooks, write summary report, create PowerPoint slides, optional Streamlit app |

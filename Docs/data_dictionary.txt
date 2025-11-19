@@ -1,0 +1,28 @@
+| Column Name      | Description                                      | Type                 |
+| ---------------- | ------------------------------------------------ | -------------------- |
+| car_ID           | Unique identifier for each car                   | Numeric              |
+| symboling        | Insurance risk rating (-3 to +3)                 | Numeric              |
+| CarName          | Car brand and model name                         | Categorical          |
+| fueltype         | Type of fuel (gas or diesel)                     | Categorical          |
+| aspiration       | Engine aspiration type (std or turbo)            | Categorical          |
+| doornumber       | Number of doors (two or four)                    | Categorical          |
+| carbody          | Type of body (sedan, hatchback, wagon, etc.)     | Categorical          |
+| drivewheel       | Type of driving wheel (fwd, rwd, 4wd)            | Categorical          |
+| enginelocation   | Location of engine (front or rear)               | Categorical          |
+| wheelbase        | Distance between front and rear wheels           | Numeric              |
+| carlength        | Length of the car (in inches)                    | Numeric              |
+| carwidth         | Width of the car (in inches)                     | Numeric              |
+| carheight        | Height of the car (in inches)                    | Numeric              |
+| curbweight       | Weight of the car without passengers or cargo    | Numeric              |
+| enginetype       | Type of engine (ohc, ohcf, dohc, etc.)           | Categorical          |
+| cylindernumber   | Number of engine cylinders                       | Categorical          |
+| enginesize       | Engine capacity (in cc)                          | Numeric              |
+| fuelsystem       | Type of fuel system (mpfi, 2bbl, etc.)           | Categorical          |
+| boreratio        | Ratio of cylinder bore diameter to stroke length | Numeric              |
+| stroke           | Piston stroke length                             | Numeric              |
+| compressionratio | Engine compression ratio                         | Numeric              |
+| horsepower       | Engine power output                              | Numeric              |
+| peakrpm          | Maximum revolutions per minute                   | Numeric              |
+| citympg          | Mileage in city (miles per gallon)               | Numeric              |
+| highwaympg       | Mileage on highway (miles per gallon)            | Numeric              |
+| **price**        | **Selling price of the car (target variable)**   | **Numeric (Target)** |

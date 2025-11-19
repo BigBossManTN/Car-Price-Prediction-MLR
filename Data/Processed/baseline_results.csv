@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R²
+Linear Regression,3152.93,4961.85,0.6881
+Ridge Regression,1823.77,2762.44,0.9033
+Lasso Regression,1913.83,2845.79,0.8974
+Decision Tree,2098.49,3427.12,0.8512
+Random Forest,1380.47,1938.93,0.9524
